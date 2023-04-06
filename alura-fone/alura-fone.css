@@ -77,10 +77,12 @@ input::placeholder {
     color: gray;
     background-color: #cccccc;
     font-family: 'Roboto Mono', monospace;
-    font-size: 20px;
-    width: 125rem;
-    font-size: 21px;
+    width: 17rem;
+    font-size: 22px;
     font-weight: bold;
+    padding: 4px 10px 6px 10px;
+    margin: 0px 0px 5px 0px;
+    text-align: center;
 }
 
 .numero {
