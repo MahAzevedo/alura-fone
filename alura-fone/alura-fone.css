@@ -65,25 +65,14 @@ input [type=tel] {
 
 .placeholder {
     color: gray;
-    background-color: #cccccc;
-    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(204, 204, 204);
+    font-family: "Roboto Mono", monospace;
     width: 17rem;
     font-size: 22px;
     font-weight: bold;
-    padding: 4px 10px 6px 10px;
-    margin: 0px 0px 5px 0px;
-    text-align: center;
-}
-
-input::placeholder {
-    color: gray;
-    background-color: #cccccc;
-    font-family: 'Roboto Mono', monospace;
-    width: 17rem;
-    font-size: 22px;
-    font-weight: bold;
-    padding: 4px 10px 6px 10px;
-    margin: 0px 0px 5px 0px;
+    padding: 1px 0px 3px 0px;
+    /* margin: 0px 1px 3px 6px; */
+    margin: -1px 0px 5px;
     text-align: center;
 }
 
