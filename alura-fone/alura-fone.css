@@ -72,6 +72,7 @@ input [type=tel] {
     font-weight: bold;
     padding: 4px 10px 6px 10px;
     margin: 0px 0px 5px 0px;
+    text-align: center;
 }
 
 input::placeholder {
